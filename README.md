@@ -25,5 +25,7 @@ Luxury perfume branding
 Created a professional logo suitable for branding and social media applications.
 
 ## Preview
+
 ![color logo](color_logo.png)
+
 ![black & white](b&w_logo.png)

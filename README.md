@@ -27,7 +27,9 @@ Created a professional logo suitable for branding and social media applications.
 ## Preview
 
 ### Color Logo
-![color logo](color_logo.png)
+
+<img src="color logo.png" width="500"/>
 
 ### Black & White Logo
-![black & white](b&w_logo.png)
+
+<img src="b&w logo.png" width="500"/>
